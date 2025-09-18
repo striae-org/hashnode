@@ -1,7 +1,5 @@
 ---
 title: "The Origins and Potential Impact of Striae"
-seoTitle: "Striae: Origins and Impact Explained"
-seoDescription: "Striae modernizes forensic firearm analysis with cloud-based tools, improving workflow, security, and scalability for forensic firearms examiners worldwide"
 datePublished: Fri Sep 05 2025 07:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmfij9a6u000002jigkd6g4yg
 slug: the-origins-and-potential-impact-of-striae
