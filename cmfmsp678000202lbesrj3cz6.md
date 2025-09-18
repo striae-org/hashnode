@@ -1,7 +1,5 @@
 ---
 title: "Precision Meets Privacy: Striae Introduces Box Annotations and Self-Service Account Deletion"
-seoTitle: "Striae: New Box Annotations & Privacy Features"
-seoDescription: "Enhance forensic analysis with Striae's new box annotations and secure account deletion, offering precision and privacy for professionals"
 datePublished: Tue Sep 16 2025 16:56:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmfmsp678000202lbesrj3cz6
 slug: precision-meets-privacy-striae-introduces-box-annotations-and-self-service-account-deletion
