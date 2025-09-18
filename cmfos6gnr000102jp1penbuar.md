@@ -1,5 +1,7 @@
 ---
 title: "Moving Towards Data Transparency: Case Exports"
+seoTitle: "Moving Towards Data Transparency: Case Exports"
+seoDescription: "In forensic examination, transparency isn't just a best practice—it's essential for credibility, peer review, and maintaining the integrity of evidence anal"
 datePublished: Thu Sep 18 2025 02:17:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmfos6gnr000102jp1penbuar
 slug: moving-towards-data-transparency-case-exports
