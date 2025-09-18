@@ -1,7 +1,5 @@
 ---
 title: "The Open Invention Network"
-seoTitle: "Striae Membership in the Open Invention Network"
-seoDescription: "Striae supports innovation with Open Invention Network, promoting a patent-free zone for open source and forensic technology advancements"
 datePublished: Fri Sep 12 2025 07:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmfij1on1000j02kyenooab4y
 slug: the-open-invention-network
