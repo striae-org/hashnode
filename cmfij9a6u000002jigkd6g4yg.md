@@ -1,5 +1,7 @@
 ---
 title: "The Origins and Potential Impact of Striae"
+seoTitle: "The Origins and Potential Impact of Striae"
+seoDescription: "Striae is a pioneering cloud-native forensic annotation application designed for firearms examiners"
 datePublished: Fri Sep 05 2025 07:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmfij9a6u000002jigkd6g4yg
 slug: the-origins-and-potential-impact-of-striae
