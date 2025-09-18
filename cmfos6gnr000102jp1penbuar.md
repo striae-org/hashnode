@@ -1,7 +1,5 @@
 ---
 title: "Moving Towards Data Transparency: Case Exports"
-seoTitle: "Boosting Transparency in Export Data"
-seoDescription: "Striae boosts data transparency and control with new case export features (ZIP, structured data, documentation)"
 datePublished: Thu Sep 18 2025 02:17:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmfos6gnr000102jp1penbuar
 slug: moving-towards-data-transparency-case-exports
