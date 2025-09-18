@@ -1,7 +1,5 @@
 ---
 title: "Striae Beta Now Open!"
-seoTitle: "Join Striae Beta Today!"
-seoDescription: "Join the Striae beta now and help shape its full release by January 1, 2026!"
 datePublished: Mon Sep 01 2025 07:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmfiifx5i000702ky0ax930y3
 slug: striae-beta-now-open
