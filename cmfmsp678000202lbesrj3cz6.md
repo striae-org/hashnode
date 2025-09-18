@@ -1,5 +1,7 @@
 ---
 title: "Precision Meets Privacy: Striae Introduces Box Annotations and Self-Service Account Deletion"
+seoTitle: "Precision Meets Privacy: Striae Introduces Box Annotations"
+seoDescription: "We're excited to announce the release of Striae v0.9.15.1-beta, featuring two new significant features in preparation for candidate release on October 1st"
 datePublished: Tue Sep 16 2025 16:56:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmfmsp678000202lbesrj3cz6
 slug: precision-meets-privacy-striae-introduces-box-annotations-and-self-service-account-deletion
