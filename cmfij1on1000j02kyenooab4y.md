@@ -1,5 +1,7 @@
 ---
 title: "The Open Invention Network"
+seoTitle: "The Open Invention Network"
+seoDescription: "Striae is proud to be a member of the Open Invention Network, the world's largest patent non-aggression community."
 datePublished: Fri Sep 12 2025 07:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmfij1on1000j02kyenooab4y
 slug: the-open-invention-network
