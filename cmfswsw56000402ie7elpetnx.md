@@ -15,4 +15,8 @@ With this capability, when a peer or co-worker exports a case package from Stria
 
 This enhancement not only improves the review workflow, but also supports best practices in evidence handling and documentation. It’s designed to foster trust and reproducibility in forensic comparisons, ensuring everyone in your team can easily access and audit the same comprehensive record.
 
+### **How does Striae detect if imported case data has been tampered with?**
+
+Striae includes advanced data checksum validation to ensure the integrity of imported case data. When a case is exported, the system generates a calculated CRC32 checksum based on the core case data content. During import, Striae automatically recalculates this checksum and compares it to the original recorded value. If the checksums don't match, the import will be blocked with a clear error message indicating that the file may have been tampered with or corrupted. This validation protects the chain of custody by ensuring that any modifications to the case data since export are immediately detected, maintaining the integrity required for forensic evidence handling.
+
 We remain dedicated to making forensic firearms analysis easier, more collaborative, and more reliable for examiners worldwide. This release brings us another step closer to our vision—a connected community of firearm examiners working with clarity, precision, and accountability.
